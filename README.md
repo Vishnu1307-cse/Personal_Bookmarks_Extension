@@ -1,4 +1,4 @@
-🚀 Lead Tracker (Chrome Extension)
+🚀 Personalized Bookmark Extension
 
 A simple and lightweight Chrome extension that allows users to save URLs as leads — either manually or directly from the currently active browser tab.
 
